@@ -1,7 +1,9 @@
 package productsStream;
 
 import java.io.*;
-
+/**
+ * @author Xavier
+ */
 public class ArchManager {
 
     public static void escribirArchivo(File ent, Product p){
